@@ -12,7 +12,7 @@ function logWhisper(hello){
 }
 
 function sayHiToGrandma(i love you){
-  return ("i love you").toUpperCase(`YES INDEED!`)
+  return ('shout(i love you)'.toUpperCase(`YES INDEED!`)
 }else{
    return('I can\'t hear you!')
 }
