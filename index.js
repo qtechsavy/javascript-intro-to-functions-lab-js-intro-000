@@ -13,6 +13,6 @@ function logWhisper(hello){
 function sayHiToGrandma(hello){
   if(hello = lowercase){
   return (`I can\'t hear you!`)
-} else{ 
+} else{
   return (`YES INDEED!`)
 }
