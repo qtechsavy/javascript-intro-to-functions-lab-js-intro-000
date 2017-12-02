@@ -10,8 +10,8 @@ function logShout(HELLO){
 function logWhisper(hello){
   console.log('hello')
 }
-function sayHiToGrandma(greeting){
-  return `greeting`.toUpperCase(`YES INDEED!`)
+function sayHiToGrandma(hello){
+  return `hello`.toUpperCase(`YES INDEED!`)
 }else{
    return 'I can\'t hear you!'
 }
